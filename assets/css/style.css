@@ -1,0 +1,43 @@
+#btnArea {
+    float: left;
+}
+
+#btn {
+    margin: 5px 5px;   
+}
+
+#inputMovie {
+    margin-bottom: 10px;
+}
+
+#addMovie {
+    font-weight: bold;
+}
+
+/* #title {
+    margin-top: -50px;
+} */
+
+#jumbo {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.movieGif {
+    margin-right: 12px;
+    margin-bottom: 12px;
+}
+
+#gifArea {
+    justify-content: center;
+    margin-bottom: 150px;
+}
+
+.movieBtn {
+    margin-right: 8px;
+    margin-bottom: 8px;
+}
+
+.ratings {
+    margin-right: 12px;
+}
